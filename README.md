@@ -1,16 +1,64 @@
-## Hi there 👋
-
 <!--
-**TsinghuaDream/TsinghuaDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  GitHub Profile README 草稿 —— 用于 TsinghuaDream/TsinghuaDream 仓库
+  认证为 TsinghuaDream 后：gh repo create TsinghuaDream/TsinghuaDream --public --add-readme
+  再把本文件作为 README.md 推送即可显示在主页顶部。
+  评分卡说明：卡片里的 rank(S/A+/A/B+/B/C) 由 github-readme-stats 按你的公开
+  提交/PR/Issue/star/follower 实时算。你目前 2 followers、0 star、135 贡献/年，
+  预计落在 B~C 档；卡片本身很好看，但别期待一上来就是 S（S 需要高 star/高活跃）。
 -->
+
+<h1 align="center">你好，我是 WenPing 👋</h1>
+<p align="center">从 Java 到 AI Agent 的工程手记 · 后端工程师，正在自建个人 Agent</p>
+
+<p align="center">
+  <a href="https://blog.xugua.xyz"><img src="https://img.shields.io/badge/博客-blog.xugua.xyz-A31F34?style=flat-square&logo=hexo&logoColor=white"></a>
+  <a href="https://shiyuxingjing.com"><img src="https://img.shields.io/badge/AI漫剧-shiyuxingjing.com-ff5c8a?style=flat-square&logo=bilibili&logoColor=white"></a>
+  <a href="mailto:tsinghuadreams@gmail.com"><img src="https://img.shields.io/badge/Email-tsinghuadreams@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+***
+
+### 🧭 关于我
+
+* 🔭 后端起家（Java / Spring / 微服务），正在往 **AI Agent 工程**转型。
+
+* 🛠️ 在自建**个人 Agent 引擎**：Skill 驱动、24 小时 Runtime、多智能体编排、RAG 记忆、飞书/钉钉双渠道接入。
+
+* ✍️ 把学习和实践沉淀成博客与知识库——"压缩即记忆""驾驭 AI 编程实战手册""解剖三个开源 Harness Agent"等长文。
+
+* 🌱 信条：**先让它跑起来，再让它正确，最后让它快。**
+
+### 🧰 技术栈
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM%20%2F%20RAG-412991?style=flat-square\&logo=openai\&logoColor=white)
+
+### 📊 GitHub 战绩
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TsinghuaDream&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsinghuaDream&layout=compact&hide_border=true&theme=tokyonight">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TsinghuaDream&hide_border=true&theme=tokyonight">
+</p>
+
+### 🚀 在做 / 精选
+
+| 项目                                      | 说明                                                      |
+| --------------------------------------- | ------------------------------------------------------- |
+| **个人 Agent 引擎**                         | Skill 驱动的 24h Runtime，多智能体编排 + RAG 记忆 + IM 渠道（开源整理中）    |
+| **[菲尼克斯 blog](https://blog.xugua.xyz)** | Hexo 技术博客，从 Java 到 AI Agent 的工程手记，GitHub Pages + CDN 双端 |
+| **blog-collector**                      | Python 中文技术博客采集器：RSS / Sitemap / 全文回退三条采集路径             |
+| **[星境](https://shiyuxingjing.com)**   | AI 漫剧网站                                                 |
+
+***
+
+<p align="center"><i>好好吃饭，改变世界。</i></p>
