@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://blog.xugua.xyz"><img src="https://img.shields.io/badge/博客-blog.xugua.xyz-A31F34?style=flat-square&logo=hexo&logoColor=white"></a>
-  <a href="https://shiyuxingjing.com"><img src="https://img.shields.io/badge/AI漫剧-shiyuxingjing.com-ff5c8a?style=flat-square&logo=bilibili&logoColor=white"></a>
   <a href="mailto:tsinghuadreams@gmail.com"><img src="https://img.shields.io/badge/Email-tsinghuadreams@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -32,7 +31,6 @@
 | **个人 Agent 引擎** | Skill 驱动的 24h Runtime，多智能体编排 + RAG 记忆 + IM 渠道（开源整理中） |
 | **[菲尼克斯 blog](https://blog.xugua.xyz)** | Hexo 技术博客，从 Java 到 AI Agent 的工程手记，GitHub Pages + CDN 双端 |
 | **blog-collector** | Python 中文技术博客采集器：RSS / Sitemap / 全文回退三条采集路径 |
-| **[石语星境](https://shiyuxingjing.com)** | AI 漫剧网站 |
 
 ---
 
