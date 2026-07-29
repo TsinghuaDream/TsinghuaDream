@@ -25,20 +25,6 @@
 后端 Java / Spring 起家，现主攻 **AI Agent 工程**（LLM / RAG / 多智能体编排）。
 
 
-### 📊 GitHub 战绩
-
-<p align="center">
-  <a href="https://github.com/TsinghuaDream"><img alt="贡献热力图" src="https://ghchart.rshah.org/409ba5/TsinghuaDream"></a>
-</p>
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/TsinghuaDream?label=Followers&style=flat-square&logo=github&color=A31F34">
-  <img alt="Profile" src="https://img.shields.io/badge/主页-github.com%2FTsinghuaDream-A31F34?style=flat-square&logo=github">
-</p>
-
-<!-- 热力图用 ghchart（独立服务、稳定不裂图）渲染你的贡献日历；GitHub 主页 README
-     下方还会自动显示官方贡献图 + 活动饼图，二者互补。日后若想要 S/A 评分卡，
-     需自建 github-readme-stats 到 Vercel（公共实例常暂停，会裂图）。 -->
-
 ### 🚀 在做 / 精选
 
 | 项目 | 说明 |
